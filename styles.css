@@ -1,0 +1,28 @@
+/* styles.css */
+
+* {
+    background-color: #fefde9
+}
+
+H1, H2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:#007474;
+}
+
+H1 {
+    font-size: 40px; 
+}
+
+H2 {
+    font-size: 20px; 
+}
+
+p {
+    color:#353535;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
